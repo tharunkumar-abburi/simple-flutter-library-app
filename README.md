@@ -1,24 +1,16 @@
-# simple-flutter-library-app
-A simple flutter UI application for  college library.
+# libraryapp1
 
-After clonning the application one should have google firebase account.
+A new  lib Flutter application.
 
-Here is the link for google firebase
-https://console.firebase.google.com/ and steps given there.
+## Getting Started
 
-And json file to be added at this path as shown in image
+This project is a starting point for a Flutter application.
 
-![](images/googlejson.jpg)
+A few resources to get you started if this is your first Flutter project:
 
-Add google drive link which contains previous years question papers as shown this path,
+- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-![](images/questionpaper.jpg)
-
-
-Add google sheet link which contains details of books available in library,
-
-![](images/bookavailability.jpg)
-
-Add google sheet link which contains details of books available in library,
-
-![](images/issuescreen.jpg)
+For help getting started with Flutter, view our
+[online documentation](https://flutter.dev/docs), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
